@@ -1,0 +1,2 @@
+D:\VC_D\repose_5\cpp-test-case-240131-vitnsk\ProjectTest\x64\Debug\ProjectTest.exe
+D:\VC_D\repos_2\ProjectSport\TimeFix\x64\Debug\ProjectTest.exe
